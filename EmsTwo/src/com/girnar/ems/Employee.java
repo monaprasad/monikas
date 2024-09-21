@@ -7,7 +7,7 @@ public class Employee extends Manager
 	
 	private String designation;
 	private String name;
-private String familyName;
+
 	public int getSsn() {
 		return ssn;
 	}
